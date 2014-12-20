@@ -7,6 +7,4 @@ Note that this is just a proof of concept at this point; it only allows one user
 
 In order to use this, you need to have a ffmpeg binary installed with .mp3 support.
 
-Further discussion: https://news.ycombinator.com/item?id=8774022
-
 ![Example usage](http://i.imgur.com/0Dcnl3X.png)
