@@ -1,0 +1,17 @@
+{
+  "name": "peggy",
+  "version": "0.0.1",
+  "description": "FFMpeg live transcoder",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "ffmpeg"
+  ],
+  "author": "Gabi Purcaru",
+  "license": "MIT",
+  "dependencies": {
+    "through2-map": "^1.4.0"
+  }
+}
